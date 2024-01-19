@@ -1,3 +1,6 @@
+---
+title: Day1 Start my C sharp learning journey
+---
 This is my first day of self-learning C#. 
 
 Although I had learned this programming language in the past when I was still a student in collega, I am not familiar with using C# to build up a actual project!
