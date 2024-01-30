@@ -1,5 +1,6 @@
 ---
 title: Day1 Start my C sharp learning journey
+tags:
 ---
 This is my first day of self-learning C#. 
 

@@ -73,6 +73,6 @@ From about information, we can say .NET Framework 4.x is a legacy framework, whi
 
 On the other hand, .Net Core, it is a earlier versions of .Net 5 or later, I think it will be better to use the lastest version of .Net (version 7/8) for a better ongoing support and feature updates.
 
-As I said, I am going build a web application, I will pick **.Net 7 and ASP.Net Core 7** on top of it. 
+As I said, I am going build a web application, I will pick **.Net 8 and ASP.Net Core 8** on top of it. 
 
 Wish me luck.
