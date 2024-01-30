@@ -1,6 +1,8 @@
 ---
 title: Day 2 C Sharp learning journey
 tags:
+  - CSharp
+  - DotNet
 ---
 While conducting research on C#, I discovered the extensive array of frameworks and versions associated with it. It is important to distinguish between these variations and comprehend their usage before we move on to the real project.
 

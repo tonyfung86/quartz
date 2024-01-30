@@ -1,6 +1,8 @@
 ---
 title: Day 3 C Sharp practice - Web API
 tags:
+  - CSharp
+  - DotNet
 ---
 Before diving into our ultimate goal, some foundational knowledge is required.
 Today I will do a practice for building a simple .Net WEB API.
@@ -34,7 +36,7 @@ A Swagger page will show up
 We can check the respones data here
 ![[Pasted image 20240129224001.png]]
 
-If not, I suggest go to chrome://flags/,
+If not, I suggest go to `chrome://flags/`,
 to Enable the "Allow invalid certificates for resources loaded from localhost".
 To allow browser access the localhost resource without certificates.
 ![[Pasted image 20240129223618.png]]
@@ -46,9 +48,10 @@ Or you can put the link `{@CustomerAPI_HostAddress}/WeatherForecast` to the sear
 ![[Pasted image 20240129224350.png]]
 
 For the request link, you can copy it from swagger
+
 ![[Pasted image 20240129224516.png]]
 
-or go to `launchSettings.json` to find out the `{@CustomerAPI_HostAddress}
+or go to `launchSettings.json` to find out the `{@CustomerAPI_HostAddress}`
 under "profiles ->https"
 ![[Pasted image 20240129224910.png]]
 
