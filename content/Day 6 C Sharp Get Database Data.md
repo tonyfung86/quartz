@@ -21,6 +21,7 @@ Create 2 record
 Go back to `Visual Studio`.
 
 Open `CustomerController.cs`
+
 ![[Pasted image 20240202232644.png]]
 
 ```
